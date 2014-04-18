@@ -1,4 +1,4 @@
-learnstreet
+LEARN BASIC JAVASCRIPT
 ===========
 
 Coding starts here
